@@ -97,7 +97,108 @@ JAVA基础学习我个人认为应该分为两个阶段。
 网站：
 
 [并发编程网](http://ifeve.com/)
+
 [ImportNew](http://www.importnew.com/)
 
 为什么常有人向Java初学者推荐“Thinking in Java"这种不适合初学者的书籍？
 https://www.zhihu.com/question/27648923
+
+# 2 服务端方向
+
+## 大数据入门
+
+[大数据技术原理与应用](http://study.163.com/course/introduction.htm?courseId=1002887002)
+
+《Hadoop权威指南》
+
+《Hadoop技术内幕》
+
+## Web后端
+
+入门可以使用how2j进行初步练习
+
+## 服务器开发
+
+《Netty权威指南》
+
+## Spring
+
+《Spring实战》
+
+《精通Spring 4.x 企业应用开发实战》
+
+主要要了解Spring用到的设计模式，Spring内部的IoC、AOP等原理及优点
+
+# 3 Android 方向
+
+## 3.1 Android 应用
+
+Android 应用方向份额基本被WEB抢占，没前途。如果只是想做应用，推荐主学WEB，顺便学习Android。
+
+### 学习路径：
+
+看视频 -> 做项目/看书/看源码
+
+#### 看视频：
+
+推荐观看培训班的视频，网易云课堂、传智播客等。视频越新越好。
+
+同时特别推荐Android官网的学习资源：https://developer.android.com/index.html ，这里的资源有API参考、文字教程、视频教程。官网的教程永远是最准确的，因此在学习的时候，多参考官网的教程。但是官网的教程还是不全面，所以还是以培训班视频为主。
+
+#### 做项目：
+
+通过视频学完基础之后，一定要独立完成制作一个APP。这个APP可以是一个微博客户端、可以是五子棋游戏，可以是新闻客户端，具体参考培训班视频里的例子。完成这个APP代表你已经入门Android了。
+
+#### 学习书籍：
+
+Android应用开发的书籍我只看过一本，《疯狂Android讲义》但是这本其实一般，内容和看视频差不多，不做推荐。更多书目见参考链接。
+
+#### 看源码：
+
+这里的源码主要是指优秀的开源项目的源码，在github上有大量的优秀开源项目，学习他们的代码。
+
+比如The Google I/O 2016 Android App： https://github.com/google/iosched
+
+Google I/O 大会的APP，可以说是Android应用开发者学习的最佳范本。我看过2015年大会的APP，对我启发很大。
+
+### 参考：
+
+如何学习Android，Android学习路线图？
+https://www.zhihu.com/question/56888757
+
+关于Android学习路线的问题？
+https://www.zhihu.com/question/51608979
+
+Android 开发有什么进阶的书么?
+https://www.zhihu.com/question/46623798
+
+## 3.2 Android 系统
+
+Android 系统方向可学习，以后可以去手机厂商等。
+
+Android 系统方向大致可分为偏硬件的嵌入式方向和系统工程师。
+
+### 嵌入式：
+
+参考 韦东山老师 的学习路径：http://t.cn/RXl5Vsf
+
+嵌入式方向和硬件结合较多，多为为硬件适配Android系统或者做驱动程序。
+
+### 系统工程师：
+
+我个人认为主要做系统定制，也就是做ROM之类的。
+
+学习路径：
+
+1. 语言基础 C C++ JAVA
+2. Android 应用开发
+3. Android framework
+4. Linux内核知识
+5. 等
+
+具体学习方案我不清楚。
+
+#### 参考：
+
+如何成为Android系统工程师？
+https://www.zhihu.com/question/53288873
